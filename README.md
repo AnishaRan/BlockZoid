@@ -1,2 +1,2 @@
 # BlockZoid
-Creating my first game using Unity.
+Creating my first game in C# using Unity.
